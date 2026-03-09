@@ -2,8 +2,14 @@
 
 
 ## 📈 Resumen
-✅ 0 correctas de 1 queries
+✅ 1 correctas de 1 queries
 
-## ❌ Query 1: Error
-- **Descripción**: 'NoneType' object is not iterable
+## ✅ Query 1: Correcto
 
+⏱ Tiempo: 0.45 ms
+🔍 No se usó ningún índice en esta consulta.
+
+🚨 **Problemas detectados:**
+🚨 `JOIN` sin índice. Revisar claves foráneas e índices.
+
+---

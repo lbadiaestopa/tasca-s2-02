@@ -2,25 +2,25 @@
 
 
 ## 📈 Resumen
-✅ 35 correctas de 38 queries
+✅ 39 correctas de 41 queries
 
 ## ✅ Query 1: Correcto
 
-⏱ Tiempo: 0.45 ms
+⏱ Tiempo: 0.38 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 2: Correcto
 
-⏱ Tiempo: 0.36 ms
+⏱ Tiempo: 0.32 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 3: Correcto
 
-⏱ Tiempo: 0.28 ms
+⏱ Tiempo: 0.33 ms
 🔍 No se usó ningún índice en esta consulta.
 
 🚨 **Problemas detectados:**
@@ -30,7 +30,7 @@
 
 ## ✅ Query 4: Correcto
 
-⏱ Tiempo: 0.29 ms
+⏱ Tiempo: 0.28 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -44,49 +44,49 @@
 
 ## ✅ Query 6: Correcto
 
-⏱ Tiempo: 0.28 ms
+⏱ Tiempo: 0.30 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 7: Correcto
 
-⏱ Tiempo: 0.28 ms
+⏱ Tiempo: 0.30 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 8: Correcto
 
-⏱ Tiempo: 0.31 ms
+⏱ Tiempo: 0.29 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 9: Correcto
 
-⏱ Tiempo: 0.28 ms
+⏱ Tiempo: 0.30 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 10: Correcto
 
-⏱ Tiempo: 0.34 ms
+⏱ Tiempo: 0.28 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 11: Correcto
 
-⏱ Tiempo: 0.29 ms
+⏱ Tiempo: 0.27 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 12: Correcto
 
-⏱ Tiempo: 0.29 ms
+⏱ Tiempo: 0.31 ms
 ✅ Se usó índice(s) en la consulta: codigo_fabricante
 
 ---
@@ -100,21 +100,21 @@
 
 ## ✅ Query 14: Correcto
 
-⏱ Tiempo: 0.28 ms
+⏱ Tiempo: 0.27 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 15: Correcto
 
-⏱ Tiempo: 0.32 ms
+⏱ Tiempo: 0.28 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 16: Correcto
 
-⏱ Tiempo: 0.30 ms
+⏱ Tiempo: 0.27 ms
 🔍 No se usó ningún índice en esta consulta.
 
 🚨 **Problemas detectados:**
@@ -134,14 +134,14 @@
 
 ## ✅ Query 18: Correcto
 
-⏱ Tiempo: 0.30 ms
+⏱ Tiempo: 0.28 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
 
 ## ✅ Query 19: Correcto
 
-⏱ Tiempo: 0.32 ms
+⏱ Tiempo: 0.28 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -162,14 +162,14 @@
 
 ## ✅ Query 22: Correcto
 
-⏱ Tiempo: 0.33 ms
+⏱ Tiempo: 0.32 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
 
 ## ✅ Query 23: Correcto
 
-⏱ Tiempo: 0.31 ms
+⏱ Tiempo: 0.32 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
@@ -183,7 +183,7 @@
 
 ## ✅ Query 25: Correcto
 
-⏱ Tiempo: 0.32 ms
+⏱ Tiempo: 0.33 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
@@ -197,7 +197,7 @@
 
 ## ✅ Query 27: Correcto
 
-⏱ Tiempo: 0.33 ms
+⏱ Tiempo: 0.32 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
@@ -221,21 +221,21 @@
 
 ## ✅ Query 30: Correcto
 
-⏱ Tiempo: 0.32 ms
+⏱ Tiempo: 0.31 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
 
 ## ✅ Query 31: Correcto
 
-⏱ Tiempo: 0.34 ms
+⏱ Tiempo: 0.31 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
 
 ## ✅ Query 32: Correcto
 
-⏱ Tiempo: 0.40 ms
+⏱ Tiempo: 0.36 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
@@ -259,50 +259,81 @@
  7.00 | Gigabyte
 ```
 
-⏱ Tiempo: 0.33 ms
+⏱ Tiempo: 0.39 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
 
 ## ✅ Query 34: Correcto
 
-⏱ Tiempo: 0.41 ms
+⏱ Tiempo: 0.45 ms
 ✅ Se usó índice(s) en la consulta: codigo_fabricante
 
 ---
 
 ## ✅ Query 35: Correcto
 
-⏱ Tiempo: 0.35 ms
+⏱ Tiempo: 0.39 ms
 ✅ Se usó índice(s) en la consulta: codigo_fabricante
 
 ---
 
 ## ✅ Query 36: Correcto
 
-⏱ Tiempo: 0.33 ms
+⏱ Tiempo: 0.36 ms
 ✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 ---
 
-## ❌ Query 37: Incorrecto
-```diff
---- 
-+++ 
-@@ -1,2 +1 @@
- codigo | nombre | precio | codigo_fabricante
--8.00 | Portátil Yoga 520 | 559.00 | 2.00
-```
+## ✅ Query 37: Correcto
 
-⏱ Tiempo: 0.35 ms
-🔍 No se usó ningún índice en esta consulta.
+⏱ Tiempo: 0.38 ms
+✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
 
 🚨 **Problemas detectados:**
-🚨 `JOIN` sin índice. Revisar claves foráneas e índices.
 ⚠️ Evitar `SELECT *`. Usar solo las columnas necesarias.
 
 ---
 
-## ❌ Query 38: Error
-- **Descripción**: 'NoneType' object is not iterable
+## ✅ Query 38: Correcto
 
+⏱ Tiempo: 0.36 ms
+✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
+
+---
+
+## ✅ Query 39: Correcto
+
+⏱ Tiempo: 0.37 ms
+✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
+
+---
+
+## ✅ Query 40: Correcto
+
+⏱ Tiempo: 0.40 ms
+✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
+
+🚨 **Problemas detectados:**
+⚠️ Evitar `SELECT *`. Usar solo las columnas necesarias.
+
+---
+
+## ❌ Query 41: Incorrecto
+```diff
+--- 
++++ 
+@@ -1,2 +1,2 @@
+-codigo | nombre | precio | codigo_fabricante
+-7.00 | Monitor 27 LED Full HD | 245.99 | 1.00
++codigo | nombre | precio | codigo_fabricante | codigo | nombre
++7.00 | Monitor 27 LED Full HD | 245.99 | 1.00 | 1.00 | Asus
+```
+
+⏱ Tiempo: 0.42 ms
+✅ Se usó índice(s) en la consulta: PRIMARY, codigo_fabricante
+
+🚨 **Problemas detectados:**
+⚠️ Evitar `SELECT *`. Usar solo las columnas necesarias.
+
+---

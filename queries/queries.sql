@@ -5,13 +5,13 @@ SELECT nombre FROM producto;
 SELECT nombre, precio FROM producto;
 
 -- 3. Llista totes les columnes de la taula producto.
-
+SELECT * FROM producto;
 
 -- 4. Llista el nom dels productes, el preu en euros (precio_eur) i el preu en dòlars estatunidencs (precio_usd) amb un tipus de canvi de 1 € = 1 $.
-
+SELECT nombre, precio AS precio_eur, precio AS precio_usd;
 
 -- 5. Llista el nom dels productes, el preu en euros i el preu en dòlars estatunidencs (amb un tipus de canvi de 1 € = 1,1 $ i arrodonint el resultat a dues xifres decimals). Utilitza els següents àlies per a les columnes: nom del producte, euros, dòlars.
-
+SELECT nombre AS nom del producte, precio AS euros, precio * 1.1 AS dòlars;
 
 -- 6. Llista els noms (nombre) i els preus de tots els productes de la taula producto, convertint els noms a majúscula.
 
